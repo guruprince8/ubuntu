@@ -1,0 +1,8 @@
+1. ps aux | grep index.js
+
+/* https://www.cyberciti.biz/faq/unix-linux-list-current-logged-in-users/ */
+2. w
+3. /var/run/utmp
+4. /var/log/wtmp
+5. who
+6. users
